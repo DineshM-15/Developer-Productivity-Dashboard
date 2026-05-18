@@ -55,8 +55,9 @@ The dashboard provides AI-inspired observations to help teams:
 
 - Improve automated testing
 - ## Live Demo
+- https://hilarious-monstera-33d1fa.netlify.app/
+- 
 
-https://transcendent-kitsune-e9b6f0.netlify.app
 - Reduce pull request size
 - Increase engineering collaboration
 - Improve review efficiency
