@@ -54,6 +54,9 @@ The dashboard provides AI-inspired observations to help teams:
 ## Suggested Actions
 
 - Improve automated testing
+- ## Live Demo
+
+https://transcendent-kitsune-e9b6f0.netlify.app
 - Reduce pull request size
 - Increase engineering collaboration
 - Improve review efficiency
